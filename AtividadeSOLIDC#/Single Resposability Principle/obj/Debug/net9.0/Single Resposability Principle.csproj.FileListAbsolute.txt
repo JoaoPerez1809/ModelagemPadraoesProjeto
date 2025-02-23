@@ -1,0 +1,14 @@
+C:\Users\ofici\Downloads\Single Resposability Principle\bin\Debug\net9.0\Single Resposability Principle.exe
+C:\Users\ofici\Downloads\Single Resposability Principle\bin\Debug\net9.0\Single Resposability Principle.deps.json
+C:\Users\ofici\Downloads\Single Resposability Principle\bin\Debug\net9.0\Single Resposability Principle.runtimeconfig.json
+C:\Users\ofici\Downloads\Single Resposability Principle\bin\Debug\net9.0\Single Resposability Principle.dll
+C:\Users\ofici\Downloads\Single Resposability Principle\bin\Debug\net9.0\Single Resposability Principle.pdb
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\Single Resposability Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\Single Resposability Principle.AssemblyInfoInputs.cache
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\Single Resposability Principle.AssemblyInfo.cs
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\Single Resposability Principle.csproj.CoreCompileInputs.cache
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\Single Resposability Principle.dll
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\refint\Single Resposability Principle.dll
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\Single Resposability Principle.pdb
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\Single Resposability Principle.genruntimeconfig.cache
+C:\Users\ofici\Downloads\Single Resposability Principle\obj\Debug\net9.0\ref\Single Resposability Principle.dll
