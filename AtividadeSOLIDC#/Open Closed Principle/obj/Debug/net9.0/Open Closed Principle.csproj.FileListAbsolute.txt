@@ -1,0 +1,14 @@
+C:\Users\ofici\Downloads\Open Closed Principle\bin\Debug\net9.0\Open Closed Principle.exe
+C:\Users\ofici\Downloads\Open Closed Principle\bin\Debug\net9.0\Open Closed Principle.deps.json
+C:\Users\ofici\Downloads\Open Closed Principle\bin\Debug\net9.0\Open Closed Principle.runtimeconfig.json
+C:\Users\ofici\Downloads\Open Closed Principle\bin\Debug\net9.0\Open Closed Principle.dll
+C:\Users\ofici\Downloads\Open Closed Principle\bin\Debug\net9.0\Open Closed Principle.pdb
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\Open Closed Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\Open Closed Principle.AssemblyInfoInputs.cache
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\Open Closed Principle.AssemblyInfo.cs
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\Open Closed Principle.csproj.CoreCompileInputs.cache
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\Open Closed Principle.dll
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\refint\Open Closed Principle.dll
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\Open Closed Principle.pdb
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\Open Closed Principle.genruntimeconfig.cache
+C:\Users\ofici\Downloads\Open Closed Principle\obj\Debug\net9.0\ref\Open Closed Principle.dll
