@@ -1,0 +1,14 @@
+C:\Users\ofici\Downloads\Interface Segregation Principle\bin\Debug\net9.0\Interface Segregation Principle.exe
+C:\Users\ofici\Downloads\Interface Segregation Principle\bin\Debug\net9.0\Interface Segregation Principle.deps.json
+C:\Users\ofici\Downloads\Interface Segregation Principle\bin\Debug\net9.0\Interface Segregation Principle.runtimeconfig.json
+C:\Users\ofici\Downloads\Interface Segregation Principle\bin\Debug\net9.0\Interface Segregation Principle.dll
+C:\Users\ofici\Downloads\Interface Segregation Principle\bin\Debug\net9.0\Interface Segregation Principle.pdb
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\Interface Segregation Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\Interface Segregation Principle.AssemblyInfoInputs.cache
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\Interface Segregation Principle.AssemblyInfo.cs
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\Interface Segregation Principle.csproj.CoreCompileInputs.cache
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\Interface Segregation Principle.dll
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\refint\Interface Segregation Principle.dll
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\Interface Segregation Principle.pdb
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\Interface Segregation Principle.genruntimeconfig.cache
+C:\Users\ofici\Downloads\Interface Segregation Principle\obj\Debug\net9.0\ref\Interface Segregation Principle.dll
